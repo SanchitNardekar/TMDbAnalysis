@@ -1,7 +1,6 @@
 # TMDbAnalysis
 Analysis of the TMDb dataset from Kaggle. Project 1 of the Udacity Data Scientist Nanodegree.
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=SanchitNardekar&show_icons=true)
 
 
 Contents
