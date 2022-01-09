@@ -2,15 +2,6 @@
 Analysis of the TMDb dataset from Kaggle. Project 1 of the Udacity Data Scientist Nanodegree.
 
 
-
-Contents
-========
-
- * [Intro](#intro)
- * [Prerequisites](#prerequisites)
- * [Usage](#usage)
- * [Credits](#credits)
-
 ### Intro
 
 This repository consists of the TMDb dataset and a Jupyter Notebook containing the analysis of the dataset. It looks to answer a few questions:
@@ -21,6 +12,10 @@ This repository consists of the TMDb dataset and a Jupyter Notebook containing t
   5. Can we predict box office flops?
 
 The TMDb dataset was chosen for this analysis as it provides a good volume and variety of data to showcase data engineering and feature engineering, as well as the potential to build a predictive model to predict movie flops. 
+
+### Contents
+
+This repo contains the Juptyer Notebook used to conduct the analysis as well as the TMDb dataset downloaded from Kaggle. The Kaggle dataset is split into 2 csv files, one fo credits of each film and another for details about the movie itself. There is also a csv of the Consumer Price Index per year and month to explore time dependencies over decades. This analysis is currently unused in the article.
 
 ### Prerequisites
 
@@ -37,6 +32,7 @@ This repository is primarily to highlight skills learned in the Udacity Advanced
 Compiled list of web links used throughout this project can be found below:
 [TMDb Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 [WordCloud](https://www.datacamp.com/community/tutorials/wordcloud-python)
+[CPI usage article](https://towardsdatascience.com/adjusting-prices-for-inflation-in-pandas-daaaa782cd89)
 
-
+End with a joke!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
