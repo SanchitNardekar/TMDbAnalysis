@@ -1,5 +1,5 @@
 # TMDbAnalysis
-Analysis of the TMDb dataset from Kaggle. Project 1 of the Udacity Data Scientist Nanodegree.
+Analysis of the TMDb dataset from Kaggle. Project 1 of the Udacity Data Scientist Nanodegree. The article that accompanies this repo can be found [here](https://medium.com/@sanchitastronomy/can-we-predict-big-budget-movie-flops-1407b175fcb4)
 
 
 ### Intro
